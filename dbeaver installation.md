@@ -7,5 +7,6 @@ steps:
 4. install for all user
 5. choose your installation folder
 6. install
+   
    ![image](https://github.com/HerandikaC/pertemuan1-basis-data/assets/148309068/37a805fc-2d76-4f8c-af88-cf9499bede67)
 
